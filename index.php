@@ -1,7 +1,7 @@
 <?php
 ?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru2">
 <head>
 <!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
